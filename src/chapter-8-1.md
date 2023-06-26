@@ -8,7 +8,7 @@ Natural Language Generation (NLG) and Advanced Language Models
 
 Natural Language Generation (NLG) is a subfield of AI that focuses on generating human-like language from structured data or other inputs. NLG has applications in various industries, including customer service, content creation, and journalism.
 
-Advanced language models, such as GPT-3, have also gained significant attention for their ability to generate high-quality text with minimal input from humans. These models have the potential to revolutionize content creation and streamline the writing process.
+Advanced language models, such as GPT-3.5, have also gained significant attention for their ability to generate high-quality text with minimal input from humans. These models have the potential to revolutionize content creation and streamline the writing process.
 
 Personalization and Customization
 ---------------------------------

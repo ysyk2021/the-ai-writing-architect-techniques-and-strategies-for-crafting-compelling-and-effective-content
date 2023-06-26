@@ -8,7 +8,7 @@ Emerging Trends
 
 Several emerging trends in AI writing architecture are likely to shape the future of the field. These include:
 
-* Natural Language Generation (NLG) and advanced language models, such as GPT-3, which have the potential to revolutionize content creation and streamline the writing process.
+* Natural Language Generation (NLG) and advanced language models, such as GPT-3.5, which have the potential to revolutionize content creation and streamline the writing process.
 * Personalization and customization, which can improve engagement and satisfaction with content by tailoring it to specific user preferences, behaviors, and demographics.
 * Multimodal content creation, which involves the integration of different types of media, such as text, images, and video, into a single cohesive experience.
 * Explainable AI, which refers to the ability of AI systems to provide transparent and understandable explanations for their decision-making processes.
