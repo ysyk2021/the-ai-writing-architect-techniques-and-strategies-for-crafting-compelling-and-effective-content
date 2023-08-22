@@ -1,5 +1,4 @@
-Historical Overview of AI Writing Architecture
-================================================================================================
+
 
 AI writing architecture has a long and fascinating history, spanning several decades and involving significant advancements in technology. In this chapter, we will explore the historical evolution of AI writing architecture.
 
