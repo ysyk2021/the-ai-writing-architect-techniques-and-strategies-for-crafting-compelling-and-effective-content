@@ -1,5 +1,4 @@
 
-
 One of the surprising benefits of AI writing architecture is enhanced creativity in content creation. In this chapter, we will explore some of the ways in which AI can enhance creativity in writing architecture.
 
 Idea Generation

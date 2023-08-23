@@ -1,5 +1,4 @@
 
-
 The use of AI in writing architecture raises significant ethical considerations. In this chapter, we will explore the challenges of AI writing architecture in relation to ethical considerations.
 
 Bias and Discrimination

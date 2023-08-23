@@ -1,5 +1,4 @@
 
-
 AI writing architecture is a complex and rapidly evolving field that involves the use of artificial intelligence (AI) to create compelling and effective content. In this chapter, we will explore the different types of AI writing architecture.
 
 Rule-Based Systems
