@@ -8,3 +8,7 @@ The AI Writing Architect is designed for writers, marketers, and content creator
 Overall, the goal of this book is to empower writers to utilize AI technology to improve their writing skills and achieve better outcomes. By exploring AI-powered techniques and strategies, writers can gain insights and ideas for integrating these technologies into their own creative processes, leading to more compelling and effective content. With the help of the AI Writing Architect, writers can leverage the power of AI technology to enhance their craft and achieve success in their writing endeavors.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
