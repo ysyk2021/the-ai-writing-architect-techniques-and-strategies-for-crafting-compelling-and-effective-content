@@ -1,5 +1,4 @@
-Chapter 9: Ensuring Transparency and Accountability
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial aspect of ensuring transparency and accountability in AI-powered writing. As AI technology becomes more prevalent in content creation, it is essential to address concerns related to transparency, ethics, and responsible use.
 

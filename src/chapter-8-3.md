@@ -1,5 +1,4 @@
-Chapter 12: Preparing for the Future
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how to prepare for the future of AI-powered writing and the evolving landscape of content creation. As AI technology continues to advance, it is essential to adapt and stay ahead of the curve to harness its full potential effectively.
 

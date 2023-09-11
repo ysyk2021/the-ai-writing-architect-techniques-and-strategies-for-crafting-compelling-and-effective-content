@@ -1,5 +1,4 @@
-Chapter 5: Marketing Copywriting
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential techniques and strategies for crafting compelling marketing copy with AI-powered writing. Marketing copywriting is a skill that combines creativity, persuasion, and strategic thinking to engage and influence target audiences. Leveraging AI technology can enhance the effectiveness and efficiency of marketing copy creation.
 

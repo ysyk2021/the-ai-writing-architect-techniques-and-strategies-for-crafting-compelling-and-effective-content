@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends in AI-powered writing that are shaping the landscape of content creation. By staying informed and embracing these trends, you can leverage the power of AI technology to craft compelling and effective content in innovative ways.
 

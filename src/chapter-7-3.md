@@ -1,5 +1,4 @@
-Chapter 8: Addressing Potential Bias
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical aspect of addressing potential bias in AI-powered writing. As AI technology becomes more prevalent in content creation, it is essential to proactively identify and mitigate bias to ensure fair and unbiased content generation.
 

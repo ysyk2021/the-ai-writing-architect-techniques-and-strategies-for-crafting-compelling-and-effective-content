@@ -1,5 +1,4 @@
-Chapter 7: SEO Optimization
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical aspect of SEO optimization in the context of AI-powered writing. SEO (Search Engine Optimization) plays a vital role in crafting compelling and effective content that ranks well in search engine results.
 
